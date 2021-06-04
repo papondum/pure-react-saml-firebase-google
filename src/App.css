@@ -24,6 +24,13 @@
   color: white;
 }
 
+button {
+  padding: 6px 24px;
+  background: #eee;
+  border-style: none;
+  border-radius: 4px;
+}
+
 .App-link {
   color: #61dafb;
 }
